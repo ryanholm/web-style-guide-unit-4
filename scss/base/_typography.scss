@@ -4,7 +4,7 @@
 
 * {
   font-family: 'Lato', sans-serif;
-  color: $black;
+  color: $grey;
   box-sizing: border-box;
 }
 
@@ -22,17 +22,17 @@ a {
 /* ============================================= */
 
 .headline-primary {
-  color: $white;
+  color: $green;
   margin-left: 10px;
 }
 
 .headline-secondary {
   font-weight: 300;
-  color: $grey;
+  color: $blue;
 }
 
 .link {
-  color: $orange;
+  color: $blue;
   font-weight: 700;
 }
 
