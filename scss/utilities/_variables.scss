@@ -1,11 +1,15 @@
-//color variables
+/* ============================================= */
+/*              Color Variables                  */
+/* ============================================= */
 
-$black: ooo;
-$white: fff;
+$black: #000;
+$white: #fff;
 $grey: #878787;
 $orange: #b89d6b;
 $tan: #df9c22;
 
-// media queries
+/* ============================================= */
+/*              Media Queries                    */
+/* ============================================= */
 
-$break-narrow: ('min-width: 768px');
+$break-narrow: ("min-width: 768px");
